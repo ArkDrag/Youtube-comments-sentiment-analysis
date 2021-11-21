@@ -4,7 +4,7 @@ import pandas as pd
 
 class YouTubeAPI():
     '''
-    Class YoutTubeAPI cotains moduls which can help to get
+    Class YoutTubeAPI contains moduls which can help to get
     data from Youtube API and put it into DataFrame
     '''
     def __init__(self):
@@ -15,7 +15,7 @@ class YouTubeAPI():
         more: https://googleapis.github.io/google-api-python-client/docs/epy/googleapiclient.discovery-module.html#build
         Parameters
         ----------        
-        api_key: must be a string, it is a key created on Google Cloud Platform
+        api_key: must be a string; key can be created on Google Cloud Platform
         api service name= youtube
         api version=v3
         '''
