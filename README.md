@@ -8,7 +8,7 @@ As an exaple i used channel of George Gammon: https://www.youtube.com/c/GeorgeGa
 2. Then i had to download all comments and author of comment under video. (file getting_comment.py)
 3. After that i had to combine both functions and create readable database. (to_df_function.py)
 
-#Update 
+#Update: 
 File Youtube_API contains all  modules form points 1-3 and documentation. 
 I decided to keep old files as a evidance of development of my skills ;) 
 -----------------------------------------------------------------------------
